@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # Ruby on Rails language support in Atom
 [![macOS Build Status](https://travis-ci.org/atom/language-ruby-on-rails.svg?branch=master)](https://travis-ci.org/atom/language-ruby-on-rails)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/5t4pa451fu5e0ghg/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-ruby-on-rails/branch/master)
